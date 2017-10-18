@@ -1,0 +1,15 @@
+C:\Users\Matt\Source\Repos\SudokuSolver\Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Matt\Source\Repos\SudokuSolver\Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Matt\Source\Repos\SudokuSolver\Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Matt\Source\Repos\SudokuSolver\Tests\bin\Debug\netcoreapp1.1\Tests.deps.json
+C:\Users\Matt\Source\Repos\SudokuSolver\Tests\bin\Debug\netcoreapp1.1\Tests.runtimeconfig.json
+C:\Users\Matt\Source\Repos\SudokuSolver\Tests\bin\Debug\netcoreapp1.1\Tests.runtimeconfig.dev.json
+C:\Users\Matt\Source\Repos\SudokuSolver\Tests\bin\Debug\netcoreapp1.1\Tests.dll
+C:\Users\Matt\Source\Repos\SudokuSolver\Tests\bin\Debug\netcoreapp1.1\Tests.pdb
+C:\Users\Matt\Source\Repos\SudokuSolver\Tests\bin\Debug\netcoreapp1.1\SudokuSolver.dll
+C:\Users\Matt\Source\Repos\SudokuSolver\Tests\bin\Debug\netcoreapp1.1\SudokuSolver.pdb
+C:\Users\Matt\Source\Repos\SudokuSolver\Tests\obj\Debug\netcoreapp1.1\Tests.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Source\Repos\SudokuSolver\Tests\obj\Debug\netcoreapp1.1\Tests.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Source\Repos\SudokuSolver\Tests\obj\Debug\netcoreapp1.1\Tests.AssemblyInfo.cs
+C:\Users\Matt\Source\Repos\SudokuSolver\Tests\obj\Debug\netcoreapp1.1\Tests.dll
+C:\Users\Matt\Source\Repos\SudokuSolver\Tests\obj\Debug\netcoreapp1.1\Tests.pdb

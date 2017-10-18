@@ -1,0 +1,10 @@
+C:\Users\Matt\Source\Repos\SudokuSolver\SudokuSolver\bin\Debug\netcoreapp1.1\SudokuSolver.deps.json
+C:\Users\Matt\Source\Repos\SudokuSolver\SudokuSolver\bin\Debug\netcoreapp1.1\SudokuSolver.runtimeconfig.json
+C:\Users\Matt\Source\Repos\SudokuSolver\SudokuSolver\bin\Debug\netcoreapp1.1\SudokuSolver.runtimeconfig.dev.json
+C:\Users\Matt\Source\Repos\SudokuSolver\SudokuSolver\bin\Debug\netcoreapp1.1\SudokuSolver.dll
+C:\Users\Matt\Source\Repos\SudokuSolver\SudokuSolver\bin\Debug\netcoreapp1.1\SudokuSolver.pdb
+C:\Users\Matt\Source\Repos\SudokuSolver\SudokuSolver\obj\Debug\netcoreapp1.1\SudokuSolver.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Source\Repos\SudokuSolver\SudokuSolver\obj\Debug\netcoreapp1.1\SudokuSolver.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Source\Repos\SudokuSolver\SudokuSolver\obj\Debug\netcoreapp1.1\SudokuSolver.AssemblyInfo.cs
+C:\Users\Matt\Source\Repos\SudokuSolver\SudokuSolver\obj\Debug\netcoreapp1.1\SudokuSolver.dll
+C:\Users\Matt\Source\Repos\SudokuSolver\SudokuSolver\obj\Debug\netcoreapp1.1\SudokuSolver.pdb
